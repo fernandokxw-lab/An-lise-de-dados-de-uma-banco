@@ -1,4 +1,4 @@
-# 📊 Projeto de Analytics: Banco Vitória (BanVic)
+# Projeto de Analytics: Banco Vitória (BanVic)
 
 Este repositório contém a solução do desafio de Engenharia de Analytics/Análise de Dados para o Banco **Vitória (BanVic)**. O objetivo foi transformar dados brutos em inteligência de negócio para apoiar a tomada de decisão estratégica da instituição.
 
@@ -9,7 +9,7 @@ Este repositório contém a solução do desafio de Engenharia de Analytics/Aná
 
 ---
 
-## 📝 Contexto do Projeto
+##  Contexto do Projeto
 O BanVic buscava amadurecer a sua cultura de dados para entender melhor o desempenho das suas agências, colaboradores e perfis de clientes. O projeto envolveu desde o tratamento de bases de dados complexas até a geração de recomendações estratégicas.
 
 ### Principais Objetivos:
@@ -18,7 +18,7 @@ O BanVic buscava amadurecer a sua cultura de dados para entender melhor o desemp
 * Avaliar a eficiência de agências e colaboradores.
 * Propor melhorias na política de crédito e retenção de clientes.
 
-## 🛠️ Ferramentas e Metodologia
+## Ferramentas e Metodologia
 A metodologia seguiu o fluxo de ponta a ponta em BI:
 1.  **Extração:** Carga de dados das bases do banco.
 2.  **ETL (Power Query):** Limpeza de dados, padronização de tipos e criação de colunas condicionais.
@@ -26,7 +26,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 4.  **Análise Quantitativa (DAX):** Criação de medidas para KPIs (Taxa de aprovação, faturamento médio, volume de transações).
 5.  **Design (Canva):** Planejamento estético e layout do dashboard para melhor experiência do usuário (UX).
 
-## 📸 Visualização do Dashboard e algumas análises feitas
+## Visualização do Dashboard e algumas análises feitas
 
 <img width="1273" height="715" alt="Captura de tela 2025-01-27 175027" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" />
 <img width="594" height="338" alt="Captura de tela 2025-01-27 173854" src="https://github.com/user-attachments/assets/8b3e9836-8cbd-4835-a1c8-a343ae2e0d16" />
@@ -35,7 +35,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 
 
 
-## 📈 Insights e Resultados
+## Insights e Resultados
 * **Eficiência Operacional:** Identificação da Agência 7 e do Colaborador 64 como benchmarks de alta performance.
 * **Oportunidade de Crédito:** Constatação de que a taxa de aprovação atual é de apenas 25,7%, sugerindo a necessidade de revisão de políticas baseada em dados regionais.
 * **Sazonalidade:** Identificação de picos transacionais que permitem ao banco planejar melhor as campanhas de marketing.
