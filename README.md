@@ -26,8 +26,13 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 4.  **Análise Quantitativa (DAX):** Criação de medidas para KPIs (Taxa de aprovação, faturamento médio, volume de transações).
 5.  **Design (Canva):** Planejamento estético e layout do dashboard para melhor experiência do usuário (UX).
 
-## 📸 Visualização do Dashboard
-<img width="1590" height="627" alt="Captura de tela 2025-01-27 175914" src="https://github.com/user-attachments/assets/8472596b-360b-4d72-94f1-28a06ced605b" />
+## 📸 Visualização do Dashboard e algumas análises feitas
+
+<img width="1273" height="715" alt="Captura de tela 2025-01-27 175027" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" />
+<img width="594" height="338" alt="Captura de tela 2025-01-27 173854" src="https://github.com/user-attachments/assets/8b3e9836-8cbd-4835-a1c8-a343ae2e0d16" />
+<img width="640" height="301" alt="Captura de tela 2025-01-27 174409" src="https://github.com/user-attachments/assets/bccbb7f5-412b-461f-954e-3a3a479cc84b" />
+<img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/01242e60-5673-408c-8942-5a1a3ea3911e" />
+
 
 
 ## 📈 Insights e Resultados
