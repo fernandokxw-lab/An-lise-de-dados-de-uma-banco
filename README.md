@@ -42,7 +42,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 
 ## 📁 Estrutura do Repositório
 * `LH_EA_AD_FERNANDO_WANG.pdf`: Relatório final com a documentação detalhada da análise.
-* `LH_EA_AD_FERNANDO_WANGc.pbix`: Arquivo fonte do Power BI.
+* `LH_EA_AD_FERNANDO_WANG.pbix`: Arquivo fonte do Power BI.
 
 ---
 **Desenvolvido por Fernando Wang**
